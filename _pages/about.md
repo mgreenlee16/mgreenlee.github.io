@@ -21,9 +21,11 @@ Determining where the boundary-layer transitions from laminar to turbulent is cr
 
 I run computational simulations in a software suite, Stability and Transition Analysis for Hypersonic Boundary-Layers (STABL), which uses DPLR2D mean-flow analysis and PSE-Chem stability analysis. From this, I analyzed results through various MATLAB codes and Tecplot visualizations. I am currently an assistant in the BAM6QT Wind-Tunnel, working towards certification for future experiments.
 
-## Design and build
+I also partnered with Stratolaunch, through The Data Mine at Purdue, where I analyzed complex research completed by professors at Purdue. I worked with two undergraduates to condense several high-level research papers into technical deliverables for Stratolaunch employees.
+
+## Design Experience
 I am a lead for a student club designing and building a UAV around a pulsejet engine. I am leading the Aerodynamics team, where I instruct young undergraduates how to first design a plane with general aerodynamic principles, generate a CAD model, and conduct analysis on our model using computational fluid dynamics (CFD).
 
-## A bit more
+## Additional info
 
 I also partake in rigorous independent study of hypersonics, reading through various textbooks and research papers, to help supplement my knowledge. I have worked through Anderson's *Hypersonics and High Temperature Gas Dynamics*, Bertin's *Hypersonic Aerothermodynamics*, and I am currently working through Hirschel and Weiland's *Selected Aerothermodynamic Design Problems of Hypersonic Flight Vehicles*. 
