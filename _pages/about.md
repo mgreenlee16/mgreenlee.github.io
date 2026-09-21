@@ -26,6 +26,7 @@ I also partnered with Stratolaunch, through The Data Mine at Purdue, where I ana
 ## Design Experience
 I am a lead for a student club designing and building a UAV around a pulsejet engine. I am leading the Aerodynamics team, where I instruct young undergraduates how to first design a plane with general aerodynamic principles, generate a CAD model, and conduct analysis on our model using computational fluid dynamics (CFD).
 
+I also spent a year designing a turbopump rocket engine with the Purdue Undergraduate Rocket Propulsion Laboratory (PURPL). Here, I worked on the injector plate design and served as the head of manufacturing for our subteam, ensuring that our design was feasible with our manufacturing capabilities at Purdue.
 ## Additional info
 
 I also partake in rigorous independent study of hypersonics, reading through various textbooks and research papers, to help supplement my knowledge. I have worked through Anderson's *Hypersonics and High Temperature Gas Dynamics*, Bertin's *Hypersonic Aerothermodynamics*, and I am currently working through Hirschel and Weiland's *Selected Aerothermodynamic Design Problems of Hypersonic Flight Vehicles*. 
