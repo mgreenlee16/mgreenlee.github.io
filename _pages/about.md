@@ -31,4 +31,4 @@ I also spent a year designing a turbopump rocket engine with the Purdue Undergra
 
 I also partake in rigorous independent study of hypersonics, reading through various textbooks and research papers, to help supplement my knowledge. I have worked through Anderson's *Hypersonics and High Temperature Gas Dynamics*, Bertin's *Hypersonic Aerothermodynamics*, and I am currently working through Hirschel and Weiland's *Selected Aerothermodynamic Design Problems of Hypersonic Flight Vehicles*. 
 
-There's more about me as a person on the [Beyond the lab](/personal/) page.
+There's more about me as a person on the [About Me](/personal/) page.
