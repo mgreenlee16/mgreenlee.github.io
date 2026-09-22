@@ -6,10 +6,7 @@ author_profile: true
 
 ## Where I'm from
 
-[Two or three sentences. Where you grew up, what it was like, anything about
-it that shaped you.]
-
-I was born in Waco, Texas in 2006 and mostly grew up in South Bend, IN. I have combined these experiences with my dad's ideas to make me a fan of the Dallas Cowboys and Notre Dame. 
+I was born in Waco, Texas in 2006 and mostly grew up in South Bend, IN. I have combined these experiences with my dad's ideas to make me a fan of the Dallas Cowboys and Notre Dame. I have an older brother, James, who recently graduated from IU and is preparing to attend medical school. I also have a dog, Mila, who is a sharpei.
 
 ## What I do when I'm not doing engineering
 
