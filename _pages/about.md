@@ -14,8 +14,7 @@ I'm a U.S. citizen and eligible for a security clearance.
 
 ## Research
 
-At the [Aerospace Sciences Laboratory](https://engineering.purdue.edu/AAE),
-I am advised by Prof. Brandon Chynoweth and I study hypersonic boundary-layer transition.
+At the Aerospace Sciences Laboratory, I am advised by Prof. Brandon Chynoweth, and I study hypersonic boundary-layer transition.
 
 Determining where the boundary-layer transitions from laminar to turbulent is critical in the design of a hypersonic vehicle. Heat transfers to the skin of the vehicle roughly three to five times more when the flow is turbulent, rather than laminar, at the same location. Predicting where this transition occurs is important in the design of the thermal protection system of the vehicle. My current project investigates how varying wall temperature profiles impact the boundary-layer and transition.
 
