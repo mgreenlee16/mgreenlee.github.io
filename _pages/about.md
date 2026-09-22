@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a junior in Aerospace Engineering, Management, and Mathematics at Purdue. I conduct research in hypersonics at the Aerospace Sciences Laboratory with the BAM6QT Wind Tunnel, lead the airframe design for a UAV built around a pulsejet, and tutor undergraduates in various subjects from partial differential equations to real analysis.
 
-I'm looking for a **Summer 2027 internship in missiles and hypersonics**.
+I'm looking for a **Summer 2027 internship in defense, preferably hypersonics**.
 I'm a U.S. citizen and eligible for a security clearance.
 
 ## Research
